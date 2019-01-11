@@ -6,6 +6,7 @@
 /[Ll]ogs
 
 /Assets/AssetStoreTools*
+/Assets/[Bb]itshifted Games/[Tt]ests*
 /Assets/[Ee]xampleAssets*
 /Assets/[Ee]xternalPackages*
 /Assets/[Mm]aterials*
